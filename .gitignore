@@ -3,7 +3,6 @@ cache/
 out/
 
 node_modules
-lib
 *.local
 
 # Ignores development broadcast logs
