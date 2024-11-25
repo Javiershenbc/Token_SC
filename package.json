@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@openzeppelin/contracts-upgradeable": "^5.1.0",
     "libusb": "^0.0.0-pre"
   }
 }
